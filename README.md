@@ -1,6 +1,3 @@
-
-readme_content = """# Web-Based Text Encryption & Decryption Tool
-
 A lightweight, responsive, and secure single-page web application designed for real-time text encryption, decryption, and encoding. This project was developed as an Information Security assignment to demonstrate the practical application of classical ciphers, modern symmetric cryptography, and data representation techniques.
 
 
